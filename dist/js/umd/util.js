@@ -8,7 +8,7 @@
       exports: {}
     };
     factory(mod.exports, mod);
-    global.util = mod.exports;
+    global.Util = mod.exports;
   }
 })(this, function (exports, module) {
   /**
